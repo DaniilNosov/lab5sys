@@ -1,0 +1,3 @@
+C:/Users/Daniil/CLionProjects/lab5sys/cmake-build-debug/CMakeFiles/lab5sys.dir
+C:/Users/Daniil/CLionProjects/lab5sys/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniil/CLionProjects/lab5sys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
